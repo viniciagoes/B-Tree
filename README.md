@@ -20,4 +20,6 @@ CH1 CH2 CH3 CH4
 ```
 Where N is the number of keys inside the node, IDs are the elements of the node, and CHs are the IDs of the child node, if there are no child nodes (leafs) the number displayed will be "-1".
 
+The "escreve" and "lido" functions are assistive (Write and Read respectively), as well as the struct and the "split" function.
+
 
