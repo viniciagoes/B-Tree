@@ -3,9 +3,9 @@ A B-tree visualizer made by me in a class for Data Structures and Search and Cla
 
 ## Functioning
 The functioning of the program consists in:
-1.Typing the dregee of the tree, as in how many elements each node will have.
-2.Type the ID of the root node, it can be a new or a existing one
-3.Then there will be a prompt where u can type:
+1. Typing the dregee of the tree, as in how many elements each node will have.
+2. Type the ID of the root node, it can be a new or a existing one
+3. Then there will be a prompt where u can type:
 ```
 "insere" to insert number
 "busca" to search for a element
